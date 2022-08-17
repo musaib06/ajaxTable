@@ -1,0 +1,24 @@
+.thright{
+    border-top-right-radius: 12px;
+}
+
+.thleft{
+    border-top-left-radius: 12px;
+}
+.notfound{
+    display: none;
+  }
+  @media (min-width: 1000px) {
+    .container {
+      width: 1024px;
+      height: 800px;
+      margin-top: 50px;
+    }
+  }
+
+  .divs {
+    width: 50%;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid green;
+}
